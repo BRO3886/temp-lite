@@ -1,8 +1,24 @@
 # temp_lite
 
-A new Flutter project.
+A new Flutter project. A GUI for NodeMCU+DHT11 over MQTT protocol
 
-## Getting Started
+Starting code and inspiration for this project can be found <a href = "https://medium.com/@ricardoogliari/communicating-flutter-with-nodemcu-using-mqtt-protocol-a44e93ba14e3">here</a>.
+
+### Prerequisites
+ - Android Studio
+ - Flutter SDK
+ - VS Code (Optional)
+### Directions to run
+```bash
+git clone https://github.com/BRO3886/flutter-mqtt-temp-hum.git
+
+cd flutter_mqtt
+
+flutter run -v
+```
+
+
+## About Flutter
 
 This project is a starting point for a Flutter application.
 
