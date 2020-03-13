@@ -10,10 +10,8 @@ Starting code and inspiration for this project can be found <a href = "https://m
  - VS Code (Optional)
 ### Directions to run
 ```bash
-git clone https://github.com/BRO3886/flutter-mqtt-temp-hum.git
-
-cd flutter_mqtt
-
+git clone https://github.com/BRO3886/temp-lite.git
+cd temp-lite
 flutter run -v
 ```
 
